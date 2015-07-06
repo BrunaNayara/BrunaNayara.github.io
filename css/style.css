@@ -76,3 +76,45 @@ a:hover, a:focus{
   margin: 0 auto 20px;
   padding: 50px 50px;
 }
+
+/*Portfolio */
+
+section.showcase{
+  background-color:#FFFFFF;
+}
+
+
+
+
+/* About */
+
+section.success {
+  background-color:#83A9DB;
+}
+
+
+/* Footer */
+
+footer {
+
+}
+
+footer .footer-above{
+  background-color:#555555;
+}
+
+footer .footer-below{
+  background-color:#cccccc;
+}
+
+
+/*Modal Content*/
+
+.modal-content{
+  background-color: rgba(255, 255, 255, 0.0)
+}
+.modal-body{
+  background-color: #fff;
+}
+
+
