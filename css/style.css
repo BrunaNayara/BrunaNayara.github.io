@@ -60,10 +60,12 @@ a:hover, a:focus{
 
 /*Header*/
 .jumbotron{
-  background-image: url("../img/Landscape.png");
+  /*background-image: url("../img/Landscape.png");
   background-repeat: no-repeat;
-  background-size: cover;
-  max-height: 500 px;
+  background-size: 100%;
+  max-height: 500 px;*/
+
+  background-color: #dddddd;
 }
 
 .jumbotron h1{
@@ -89,7 +91,7 @@ section.showcase{
 /* About */
 
 section.success {
-  background-color:#83A9DB;
+  background-color:#eeeeee;
 }
 
 
