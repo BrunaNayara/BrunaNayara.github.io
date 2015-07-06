@@ -1,3 +1,78 @@
+body{
+
+  font-family: 'Montserrat', Helvetica, Arial;
+  font-size: 16px;
+  font-weight: 400;
+
+}
+
+p{
+  font-size:20px;
+  font-weight: 400;
+}
+
+p.small{
+  font-size: 16px;
+}
+
+
+h1, h2, h3, h4, h5, h6{
+  text-transform: uppercase;
+  font-family: 'Montserrat', Helvetica, Arial;
+  font-weight: 700;
+}
+
+
+a{
+  /*color: */
+  text-decoration:none;
+}
+
+a:hover, a:focus{
+  /*color:*/
+}
+
+/*NavBar*/
+
+.navbar-brand{
+  /*Logo assinatura??*/
+}
+
+.navbar-default{
+  /*background:none;*/
+}
+
+
+.navbar-default .navbar-nav>li>a{
+  /*color:#ffffff;*/
+}
+
+.navbar-default .navbar-nav>li>a:hover{
+  color:#ffffff;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
+  background: #333333;
+}
+
+
+
+
+/*Header*/
 .jumbotron{
   background-image: url("../img/Landscape.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  max-height: 500 px;
+}
+
+.jumbotron h1{
+  /*color*/
+  
+}
+
+.jumbotron img{
+  display: block;
+  margin: 0 auto 20px;
+  padding: 50px 50px;
 }
