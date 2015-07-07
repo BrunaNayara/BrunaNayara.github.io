@@ -36,10 +36,15 @@ a:hover, a:focus{
 
 .navbar-brand{
   /*Logo assinatura??*/
+  color: #B201F1;
+}
+
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+  color:#51046c;
 }
 
 .navbar-default{
-  /*background:none;*/
+  background:#fbf3fe;
 }
 
 
@@ -48,11 +53,11 @@ a:hover, a:focus{
 }
 
 .navbar-default .navbar-nav>li>a:hover{
-  color:#ffffff;
+  color:#fbf3fe;
 }
 
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover{
-  background: #333333;
+  background: #ffc89a;
 }
 
 
@@ -60,17 +65,17 @@ a:hover, a:focus{
 
 /*Header*/
 .jumbotron{
-  /*background-image: url("../img/Landscape.png");
-  background-repeat: no-repeat;
-  background-size: 100%;
-  max-height: 500 px;*/
-
-  background-color: #dddddd;
+  background-image: url("../img/pattern3.png");
+  background-repeat: repeat;
+  background-color: #fff3f7;
 }
 
 .jumbotron h1{
-  /*color*/
-  
+  color:#8c0039;
+}
+
+.jumbotron h4{
+  color:#b2094d;
 }
 
 .jumbotron img{
@@ -167,6 +172,8 @@ footer .footer-below{
   bottom: 20px;
 }
 
+/*Icons*/
+
 .btn-social{
   margin-top: 5px;
   border: solid 2px #fff;
@@ -177,7 +184,8 @@ footer .footer-below{
   text-align: center;
   font-size: 15px;
   line-height: 25px;
-  color: #000000;
+  color: #b2094d;
+  background: #ffffff;
 }
 
 
@@ -210,3 +218,21 @@ footer .footer-below{
     font-size: 20px;
     line-height: 28px;
 }
+
+.fa-cube:before, .fa-cubes:before{
+  color:#b2094d;
+}
+
+
+
+/*
+hr.cube-light,
+hr.cube-primary {
+    margin: 25px auto 30px;
+    padding: 0;
+    max-width: 250px;
+    border: 0;
+    border-top: solid 5px;
+    text-align: center;
+}
+*/
