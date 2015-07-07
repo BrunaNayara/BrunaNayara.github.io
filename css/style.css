@@ -65,9 +65,10 @@ a:hover, a:focus{
 
 /*Header*/
 .jumbotron{
-  background-image: url("../img/pattern3.png");
+  background-image: url("../img/pattern2.png");
   background-repeat: repeat;
   background-color: #fff3f7;
+  margin-bottom: 0px;
 }
 
 .jumbotron h1{
@@ -87,7 +88,8 @@ a:hover, a:focus{
 /*Portfolio */
 
 section.showcase{
-  background-color:#FFFFFF;
+  background-color:#fff;
+  color:#51046c;
 }
 
 
@@ -96,7 +98,7 @@ section.showcase{
 /* About */
 
 section.success {
-  background-color:#eeeeee;
+  background-color:#ebcdf5;
   padding: 30px;
 }
 
@@ -111,8 +113,9 @@ footer .footer-above{
 }
 
 footer .footer-below{
-  background-color:#cccccc;
+  background-color:#514655;
   padding: 30px 0px;
+  color:#fff;
 }
 
 
