@@ -98,6 +98,9 @@ section.showcase{
   background-color:#fff;
 }
 
+.thumbnail img{
+  max-height:200px;
+}
 
 .thumbnail .hover , .thumbnail .hover  {
   text-decoration:none;
@@ -251,7 +254,6 @@ footer .footer-below{
 
 .fa-cube:before, .fa-cubes:before{
   /*color:#b2094d;*/
-  padding 20px 0px;
 }
 
 
