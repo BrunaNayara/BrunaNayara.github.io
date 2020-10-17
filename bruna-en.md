@@ -3,7 +3,7 @@ layout: post
 title: Bruna Moreira
 ---
 
-![theme logo](https://avatars1.githubusercontent.com/u/4125846?s=460&u=5558248f14b2b3e9405e66a897ad0963d6a59ef9&v=4){:.ioda}
+![theme logo](https://avatars1.githubusercontent.com/u/4125846?s=460&u=5558248f14b2b3e9405e66a897ad0963d6a59ef9&v=4)
 
 > TO DO: do it in english
 
