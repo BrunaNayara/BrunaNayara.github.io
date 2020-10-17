@@ -26,7 +26,7 @@ entries:
       - title: Portfolio (outdated)
         url: old-portfolio/index.html
 
-  - title: thoughts
+  - title: Presentations
     post_list: true
     url: false
     entries: false
