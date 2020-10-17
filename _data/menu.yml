@@ -5,12 +5,27 @@ entries:
   - title: Basic info
     url: false
     entries:
-      - title: engenheira de software blablabla
+      - title: she/her
+        url: false
+      - title: software engineer
         url: false
       - title: github.com/BrunaNayara
         url: https://github.com/BrunaNayara
-      - title: old portfolio
-        url: old-portfolio/index.html
+
+  - title: Mini bio
+    url: false
+    entries:
+      - title: Português
+        url: bruna-pt
+      - title: English
+        url: bruna-en
+
+  - title: old portfolio
+    url: old-portfolio/index.html
+
+  - title: Uma entrada
+    url: bruna-pt
+    entries: false
 
   - title: thoughts
     post_list: true
