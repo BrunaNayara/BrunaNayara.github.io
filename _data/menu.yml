@@ -1,0 +1,35 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: Basic info
+    url: false
+    entries:
+      - title: she/her
+        url: false
+      - title: software engineer
+        url: false
+      - title: github.com/BrunaNayara
+        url: https://github.com/BrunaNayara
+
+  - title: Mini bio
+    url: false
+    entries:
+      - title: Português
+        url: bruna-pt
+      - title: English
+        url: bruna-en
+
+  - title: Drawings
+    url: false
+    entries:
+      - title: Portfolio (outdated)
+        url: old-portfolio/index.html
+
+  - title: thoughts
+    post_list: true
+    url: false
+    entries: false
+
+  - title: rss
+    url: feed.xml
