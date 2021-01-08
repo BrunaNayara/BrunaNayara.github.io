@@ -8,12 +8,12 @@ title: Bruna Moreira
 > TO DO: do it in english
 
 # Minibio em 240 caracteres
-Bruna Moreira é engenheira de software, professora, e desenvolvedora de chatbot nas horas pagas.
-Nas horas vagas, dança forró, pole dance, tira cochilo na rede com seus gatos e agita comunidades de software livre: AcompanhaLegis, Big Open Source Sister, e PyLadies DF.
+Bruna Moreira ia an software engineer, teacher and chatbot developer in business hours.
+On leasure hours, she dances, naps in her hammock with her cats and works for open software communities: AcompanhaLegis, Big Open Source Sister, and PyLadies DF.
 
 
 # Minibio em 500 caracteres
-Bruna Moreira é engenheira de software, professora, e desenvolvedora de chatbot nas horas pagas.
-Ama participar, coordenar, organizar e agitar comunidades de software livre, entre elas, AcompanhaLegis, Big Open Source Sister, e PyLadies DF. Esteve na organização de duas edições do Django Girls DF, com mais de 90 participantes, cada.Já apresentou conteúdo na Campus Party Brasília e Brasil.
-Nas horas vagas, dança forró, pole dance e tira cochilo na rede com seus gatos.
-
+Bruna Moreira ia an software engineer, teacher and chatbot developer in business hours.
+Loves to participate, coordinate, and socialize in open software communities, such as AcompanhaLegis, Big Open Source Sister, and PyLadies DF.
+Organized two Django Girls DF editions, with more than 90 participants and 30 mentors, each. She was a speaker on Campus Party Brasília and Brasil.
+On her break time, she dances, and naps in her hammock with her cats.
