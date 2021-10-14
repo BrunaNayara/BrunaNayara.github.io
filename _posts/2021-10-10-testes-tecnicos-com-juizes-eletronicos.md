@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get away with algorithms: como ir bem em testes técnicos de processos seletivos com juízes eletrônicos
+title: Testes técnicos com juízes eletrônicos
 ---
 
 # Descrições
