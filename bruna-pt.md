@@ -13,6 +13,6 @@ Bruna Moreira é engenheira de software, professora, desenvolvedora nas horas pa
 Nas horas vagas, dança forró e pole dance, tira cochilo na rede com seus gatos, agita comunidades de software livre, e organiza a Big Open Source Sibling.
 
 # Minibio em 500 caracteres
-Bruna Moreira é engenheira de software, professora, e desenvolvedora de chatbot nas horas pagas.
+Bruna Moreira é engenheira de software e desenvolvedora nas horas pagas.
 Ama participar, coordenar, organizar e agitar comunidades de software livre, entre elas, AcompanhaLegis, Big Open Source Sibling, e PyLadies DF. Esteve na organização de duas edições do Django Girls DF, com mais de 90 participantes, cada. Já apresentou conteúdo na Campus Party Brasília e Brasil.
 Nas horas vagas, dança forró, pole dance e tira cochilo na rede com seus gatos.
